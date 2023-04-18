@@ -1,7 +1,7 @@
 #Autoconf Requirements
 
 #Intialize, but use more options. Note Parameters brackets and whitespace.
-AC_INIT([hello],[0.01])
+AC_INIT([autohello],[0.01])
 
 #Force Autoconf to be at least this Version Number:
 AC_PREREQ([2.68])
